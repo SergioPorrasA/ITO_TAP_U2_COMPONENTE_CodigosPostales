@@ -70,12 +70,12 @@ Debes abrir la carpeta del proyecto que descargaste y dentro abrir la carpeta �
 ![1](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/168385961/f9f0fa6d-2f77-47db-9e50-9bf30bbe7539)
 ![2](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/168385961/74025a7c-1038-4257-99a7-4e59e5d49c63)
 
-Ahora en este método en el siguiente método deberás pegar la ubicación que copiaste. OJO: deberás reemplazar solo la parte subrayada.
+Ahora en este método en el siguiente método deberás pegar la ubicación que copiaste. OJO: deberás reemplazar solo la parte resaltada en negritas que se muestran a continuacion:
 
 public CodigoPostalPanel() {
-        initComponents();
-        leerArchivoCSV(**"C:\\Users\\Sergio Porras A\\Documents\\NetBeansProjects\\ITO_TAP_U2_COMPONENTE_CodigosPostales\\src\\codigopostal\\** CodigosPostales.csv");
-        llenarEstadosComboBox();
+initComponents();
+leerArchivoCSV(**"C:\\Users\\Sergio Porras A\\Documents\\NetBeansProjects\\ITO_TAP_U2_COMPONENTE_CodigosPostales\\src\\codigopostal\\** CodigosPostales.csv");
+llenarEstadosComboBox();
     }
 
 4. Compila y crea el componente .JAR (Es miuy importante asegurarte de que el archivo .jar se cree para poder usarlo despues).
