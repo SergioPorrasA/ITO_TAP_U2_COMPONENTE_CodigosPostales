@@ -88,22 +88,33 @@ public CodigoPostalPanel() {
 4. Compila y crea el componente .JAR
 5. Agrégalo a tu paleta de componentes de la siguiente manera:
 Sobre la paleta de elementos da clic derecho y selecciona la opción Palette Manager…
+
 ![3](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/168385961/ffbe0c34-7c6e-4041-bdd7-957471c61faf)
 
+
 En esta ventana da clic en el primer botón “Add from JAR…”
+
 ![4](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/168385961/862db3b5-482f-4814-b0a6-5e3f674a6fb8)
 
 En esta ventana emergente buscaras la carpeta con el proyecto en donde tú lo hayas guardado y en la carpeta “dist” seleccionaras el archivo que aparece y dar clic en el botón “Next >”, asi como se muestra enseguida:
+
 ![5](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/168385961/501c12ae-f54d-4279-a560-f2c3d934bdc9)
 
+
 Después seleccionas el componente que tiene el nombre de nuestra clase principal:
+
 ![6](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/168385961/7a05d714-da20-437e-baed-50f9dd79c8e3)
 
+
 Por último seleccionas en que categoría de la paleta de componentes quieres que se agregue este componente:
+
 ![7](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/168385961/27e0cd9c-38ec-4759-96bb-c4ef7a5e3740)
 
+
 Como se observa, se nos agregara a nuestra paleta de componentes y lo tendremos a nuestra disposición para usar:
+
 ![8](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/168385961/8e8be1fc-ee2f-42dc-abeb-9fc92dfedd78)
+
 
 
 ## FUNCIONAMIENTO:
