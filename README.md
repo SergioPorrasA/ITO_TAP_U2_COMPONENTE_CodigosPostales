@@ -42,6 +42,7 @@ La clase principal CodigoPostalPanel es una subclase de JPanel, esta clase defin
 | `java.util.ArrayList y java.util.List` |  Estas clases son parte del paquete java.util y se utilizan para almacenar y manipular la lista de información de códigos postales. En este código, se utiliza un ArrayList para almacenar arrays de strings que representan la información de cada código postal. |
 
 
+
 - **Metodos:**
 
 | Nombre | Descripción |
@@ -77,7 +78,7 @@ public CodigoPostalPanel() {
         llenarEstadosComboBox();
     }
 
-4. Compila y crea el componente .JAR
+4. Compila y crea el componente .JAR (Es miuy importante asegurarte de que el archivo .jar se cree para poder usarlo despues).
 5. Agrégalo a tu paleta de componentes de la siguiente manera:
 Sobre la paleta de elementos da clic derecho y selecciona la opción Palette Manager…
 
@@ -111,7 +112,7 @@ Como se observa, se nos agregara a nuestra paleta de componentes y lo tendremos 
 
 ## FUNCIONAMIENTO:
 - Hemos creado un video para que veas el funcionamiento del programa. Para verlo da click en el siguiente enlace:
-https://drive.google.com/drive/folders/1dM6hccDhiDzynBTX4xlnskkB0jN4fqTo?usp=sharing
+https://youtu.be/jYMwbiZ-WaU?si=cup1yoBsrhZ3mGQn
 
 
 
