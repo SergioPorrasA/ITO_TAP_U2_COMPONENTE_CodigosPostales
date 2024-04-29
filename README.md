@@ -78,7 +78,7 @@ leerArchivoCSV(**"C:\\Users\\Sergio Porras A\\Documents\\NetBeansProjects\\ITO_T
 Si tu decides cambiar el nombre del archivo CSV es importante que lo cambies tambien en este metodo.
 
 
-4. Compila y crea el componente .JAR (Es miuy importante asegurarte de que el archivo .jar se cree para poder usarlo despues).
+4. Compila y crea el componente .JAR (Es muy importante asegurarte de que el archivo .jar se cree para poder usarlo despues).
 5. Agrégalo a tu paleta de componentes de la siguiente manera:
 Sobre la paleta de elementos da clic derecho y selecciona la opción Palette Manager…
 
