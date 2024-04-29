@@ -33,12 +33,12 @@ La clase principal CodigoPostalPanel es una subclase de JPanel, esta clase defin
 
 - ** Librerias usadas:**
 
-| Nombre | Campo | Descripción |
-|------|-------|-------------|
-| `javax.swing` | `LOWER` | Esta es una librería estándar de Java que proporciona componentes y herramientas para crear interfaces gráficas de usuario (GUI). En este código, se utilizan clases como JPanel, JLabel y JComboBox para construir la interfaz de usuario del panel de códigos postales. |
-| `String` | `UPPER` | Contiene las letras mayúsculas de la A a la Z. |
-| `String` | `DIGITS` | Contiene los dígitos del 0 al 9. |
-| `String` | `PUNCTUATION` | Contiene símbolos comunes utilizados en contraseñas. |
+| Nombre | Descripción |
+|------|-------------|
+| `javax.swing` | Esta es una librería estándar de Java que proporciona componentes y herramientas para crear interfaces gráficas de usuario (GUI). En este código, se utilizan clases como JPanel, JLabel y JComboBox para construir la interfaz de usuario del panel de códigos postales. |
+| `String` | Contiene las letras mayúsculas de la A a la Z. |
+| `String` | Contiene los dígitos del 0 al 9. |
+| `String` |  Contiene símbolos comunes utilizados en contraseñas. |
 
 
 - ** Metodos:**
