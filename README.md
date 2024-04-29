@@ -42,30 +42,21 @@ La clase principal CodigoPostalPanel es una subclase de JPanel, esta clase defin
 | `java.util.ArrayList y java.util.List` |  Estas clases son parte del paquete java.util y se utilizan para almacenar y manipular la lista de información de códigos postales. En este código, se utiliza un ArrayList para almacenar arrays de strings que representan la información de cada código postal. |
 
 
-- ** Metodos:**
-|  **Nombre** | **Descripcion**  |
-| ------------ | ------------ |
-|  initComponents | Inicializamos los componentes de la interfaz gráfica (comboBox  y etiquetas).
+- **Metodos:**
+| Nombre | Descripción |
+|------|-------------|
+| `initComponents` | Inicializamos los componentes de la interfaz gráfica (comboBox  y etiquetas).
 
 Establece los action listeners para los comboBox que se activan cuando el usuario selecciona un elemento en el comboBox correspondiente. |
-| leerArchivoCSV  | Recibe un String (ruta del archivo csv).
-
-Lee un archivo CSV línea por línea utilizando un BufferedReader.
-
-Llama al método procesarLineaCSV (String line) para procesar cada línea leída.|
-| procesarLineaCSV  | Recibe un String (una línea del archivo CSV).
-
-Divide cada línea del archivo CSV en partes utilizando la coma como delimitador.
-
-Si la línea contiene más de 4 partes, agrega esas partes al arrayList  info, que almacena información como código postal, estado, ciudad, municipio y colonia.|
-| llenarEstadosComboBox  | Recorre el arrayList info y llena el comboBox de estados con los nombres únicos de los estados.  |
-| llenarCiudadesComboBox  |  Llena el combobox de ciudades con los nombres de las ciudades correspondientes al estado seleccionado en el método anterior. |
-| llenarMuniComoBox  | Llena el combobox de municipios con los nombres de los municipios correspondientes a la ciudad seleccionada en el método anterior.  |
-| llenarCodigoPostalComboBox  | Llena el combobox de códigos postales con los códigos correspondientes al municipio seleccionado en el método anterior.  |
-| llenarColoniaComboBox  |  Llena el combobox de colonias con los nombres de las colonias correspondientes al código postal seleccionado. |
-|  getInfoSeleccionada |  Obtiene la información seleccionada por el usuario de los comboboxes y la devuelve como una cadena de texto formateada. |
-| main  |  Inicia la aplicación Swing creando un nuevo JFrame y agregando un objeto CodigoPostalPanel al contenido del frame. |
-
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
 
 ## INSTALACION:
 1. Descarga:
