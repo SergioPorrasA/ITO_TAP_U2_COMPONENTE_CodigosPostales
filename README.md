@@ -1,9 +1,11 @@
 # Componente visual para selección de códigos postales
 
-### DESCRIPCION
+
+## DESCRIPCION
 Este código Java define un componente visual llamado CodigoPostalPanel, que es un panel que muestra información de códigos postales. Permite seleccionar un estado, ciudad, municipio, código postal y colonia a partir de datos cargados desde un archivo CSV.
 
-### CARACTERISTICAS:
+
+## CARACTERISTICAS:
 - Interfaz Gráfica: Utiliza componentes de interfaz gráfica como JComboBox y JLabel para mostrar y seleccionar información.
 
 - Carga de Datos Externos: Lee datos de un archivo CSV para llenar los campos de selección.
@@ -12,17 +14,20 @@ Este código Java define un componente visual llamado CodigoPostalPanel, que es 
 
 - Información Seleccionada: Proporciona un método para obtener la información seleccionada en formato de cadena.
 
-### EJEMPLOS DE APLICACIÓN Y USO:
+
+## EJEMPLOS DE APLICACIÓN Y USO:
 - Aplicaciones de Envío: Puede integrarse en aplicaciones de envío para ayudar a los usuarios a seleccionar códigos postales y direcciones de forma rápida y precisa.
 - Sistemas de Logística: Útil en sistemas de logística para seleccionar ubicaciones de entrega basadas en códigos postales.
 - Plataformas de E-Commerce (comercio electrónico): Se puede utilizar en plataformas de comercio electrónico para que los usuarios seleccionen direcciones de envío durante el proceso de compra.
 
-### REQUISITOS PARA LA IMPLEMENTACIÓN EN OTROS EQUIPOS Y PROYECTOS:
+
+## REQUISITOS PARA LA IMPLEMENTACIÓN EN OTROS EQUIPOS Y PROYECTOS:
 1.  Java Development Kit (JDK): Es necesario tener instalado JDK para compilar y ejecutar el código.
 2. Bibliotecas Externas: El código utiliza bibliotecas estándar de Java, por lo que no requiere bibliotecas externas adicionales.
 3. Datos de Códigos Postales: Se necesita un archivo CSV con datos de códigos postales en el formato esperado para que el componente funcione correctamente (en este caso lo proporcionamos nosotros y se encuentra dentro del proyecto).
 
-### API:
+
+## API:
 - **Clase CodigoPostalPanel:**
 La clase principal CodigoPostalPanel es una subclase de JPanel, esta clase define la estructura y funcionalidad del panel visual para seleccionar y mostrar información de los códigos postales de manera interactiva.
 
@@ -59,7 +64,8 @@ Si la línea contiene más de 4 partes, agrega esas partes al arrayList  info, q
 |  getInfoSeleccionada |  Obtiene la información seleccionada por el usuario de los comboboxes y la devuelve como una cadena de texto formateada. |
 | main  |  Inicia la aplicación Swing creando un nuevo JFrame y agregando un objeto CodigoPostalPanel al contenido del frame. |
 
-### INSTALACION:
+
+## INSTALACION:
 1. Descarga:
 Realiza la descarga del proyecto.
 
@@ -79,9 +85,9 @@ public CodigoPostalPanel() {
         llenarEstadosComboBox();
     }
 
-4.	Compila y crea el componente .JAR
-5.	Agrégalo a tu paleta de componentes de la siguiente manera:
-Sobre la paleta de elementos da clic derecho y selecciona la opción “Palette Manager…”
+4. Compila y crea el componente .JAR
+5. Agrégalo a tu paleta de componentes de la siguiente manera:
+Sobre la paleta de elementos da clic derecho y selecciona la opción Palette Manager…
 ![3](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/168385961/ffbe0c34-7c6e-4041-bdd7-957471c61faf)
 
 En esta ventana da clic en el primer botón “Add from JAR…”
@@ -99,10 +105,12 @@ Por último seleccionas en que categoría de la paleta de componentes quieres qu
 Como se observa, se nos agregara a nuestra paleta de componentes y lo tendremos a nuestra disposición para usar:
 ![8](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/168385961/8e8be1fc-ee2f-42dc-abeb-9fc92dfedd78)
 
-### FUNCIONAMIENTO:
+
+## FUNCIONAMIENTO:
 - Hemos creado un video para que veas el funcionamiento del programa. Para verlo da click en el siguiente enlace:
 https://drive.google.com/drive/folders/1dM6hccDhiDzynBTX4xlnskkB0jN4fqTo?usp=sharing
 
-### AUTORES:
+
+## AUTORES:
 - Porras Avendaño Sergio Ezequiel - Ing. en Sistemas Computacionales ***ITO*** [https://github.com/SergioPorrasA]
 - Ortiz Barroso Itzel - Ing. en Sistemas Computacionales ***ITO*** [https://github.com/ItzelOrtix]
