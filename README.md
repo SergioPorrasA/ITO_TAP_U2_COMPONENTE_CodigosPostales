@@ -74,7 +74,7 @@ Ahora en este método en el siguiente método deberás pegar la ubicación que c
 
 public CodigoPostalPanel() {
         initComponents();
-        leerArchivoCSV("~~C:\\Users\\Sergio Porras A\\Documents\\NetBeansProjects\\ITO_TAP_U2_COMPONENTE_CodigosPostales\\src\\codigopostal\\~~CodigosPostales.csv");
+        leerArchivoCSV(**"C:\\Users\\Sergio Porras A\\Documents\\NetBeansProjects\\ITO_TAP_U2_COMPONENTE_CodigosPostales\\src\\codigopostal\\** CodigosPostales.csv");
         llenarEstadosComboBox();
     }
 
