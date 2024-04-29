@@ -46,10 +46,7 @@ La clase principal CodigoPostalPanel es una subclase de JPanel, esta clase defin
 
 | Nombre | Descripción |
 |------|-------------|
-| `initComponents` | Inicializamos los componentes de la interfaz gráfica (comboBox  y etiquetas).
-
-Establece los action listeners para los comboBox que se activan cuando el usuario selecciona un elemento en el comboBox correspondiente.
- |
+| `initComponents` | Inicializamos los componentes de la interfaz gráfica (comboBox  y etiquetas). Establece los action listeners para los comboBox que se activan cuando el usuario selecciona un elemento en el comboBox correspondiente.|
 | `java.awt.event` | Esta librería también es estándar en Java y contiene clases e interfaces para manejar eventos de entrada, como clics de ratón y pulsaciones de teclas. En este código, se utilizan clases como ActionListener y ActionEvent para manejar eventos de selección en los JComboBox. |
 | `java.io.BufferedReader y java.io.FileReader` | Estas clases son parte del paquete java.io y se utilizan para leer datos desde un archivo de texto, en este caso, un archivo CSV que contiene información de códigos postales. |
 | `java.io.IOException` |  Esta clase maneja excepciones de entrada/salida que pueden ocurrir al leer el archivo CSV. Se utiliza para manejar posibles errores durante la lectura del archivo. |
