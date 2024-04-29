@@ -32,13 +32,12 @@ Este código Java define un componente visual llamado CodigoPostalPanel, que es 
 La clase principal CodigoPostalPanel es una subclase de JPanel, esta clase define la estructura y funcionalidad del panel visual para seleccionar y mostrar información de los códigos postales de manera interactiva.
 
 - ** Librerias usadas:**
-|  **Libreria **     |**Descripcion **  |
-| ---------- | ------------ |
-|  javax.swing |  Esta es una librería estándar de Java que proporciona componentes y herramientas para crear interfaces gráficas de usuario (GUI). En este código, se utilizan clases como JPanel, JLabel y JComboBox para construir la interfaz de usuario del panel de códigos postales. |
-| java.awt.event  |  Esta librería también es estándar en Java y contiene clases e interfaces para manejar eventos de entrada, como clics de ratón y pulsaciones de teclas. En este código, se utilizan clases como ActionListener y ActionEvent para manejar eventos de selección en los JComboBox. |
-|  java.io.BufferedReader y java.io.FileReader |  Estas clases son parte del paquete java.io y se utilizan para leer datos desde un archivo de texto, en este caso, un archivo CSV que contiene información de códigos postales. |
-|  java.io.IOException | Esta clase maneja excepciones de entrada/salida que pueden ocurrir al leer el archivo CSV. Se utiliza para manejar posibles errores durante la lectura del archivo.  |
-| java.util.ArrayList y java.util.List  | Estas clases son parte del paquete java.util y se utilizan para almacenar y manipular la lista de información de códigos postales. En este código, se utiliza un ArrayList para almacenar arrays de strings que representan la información de cada código postal.  |
+| Tipo | Descripción |
+|------|-------------|
+| `javax.swing` | Contiene las letras minúsculas de la A a la Z. |
+| `String` | Contiene las letras mayúsculas de la A a la Z. |
+| `String` | Contiene los dígitos del 0 al 9. |
+| `String` | Contiene símbolos comunes utilizados en contraseñas. |
 
 - ** Metodos:**
 |  **Nombre** | **Descripcion**  |
@@ -121,13 +120,7 @@ Como se observa, se nos agregara a nuestra paleta de componentes y lo tendremos 
 - Hemos creado un video para que veas el funcionamiento del programa. Para verlo da click en el siguiente enlace:
 https://drive.google.com/drive/folders/1dM6hccDhiDzynBTX4xlnskkB0jN4fqTo?usp=sharing
 
-#### Campos
-| Tipo | Campo | Descripción |
-|------|-------|-------------|
-| `String` | `LOWER` | Contiene las letras minúsculas de la A a la Z. |
-| `String` | `UPPER` | Contiene las letras mayúsculas de la A a la Z. |
-| `String` | `DIGITS` | Contiene los dígitos del 0 al 9. |
-| `String` | `PUNCTUATION` | Contiene símbolos comunes utilizados en contraseñas. |
+
 
 ## AUTORES:
 - Porras Avendaño Sergio Ezequiel - Ing. en Sistemas Computacionales ***ITO*** [https://github.com/SergioPorrasA]
