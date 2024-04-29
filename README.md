@@ -121,6 +121,13 @@ Como se observa, se nos agregara a nuestra paleta de componentes y lo tendremos 
 - Hemos creado un video para que veas el funcionamiento del programa. Para verlo da click en el siguiente enlace:
 https://drive.google.com/drive/folders/1dM6hccDhiDzynBTX4xlnskkB0jN4fqTo?usp=sharing
 
+#### Campos
+| Tipo | Campo | Descripción |
+|------|-------|-------------|
+| `String` | `LOWER` | Contiene las letras minúsculas de la A a la Z. |
+| `String` | `UPPER` | Contiene las letras mayúsculas de la A a la Z. |
+| `String` | `DIGITS` | Contiene los dígitos del 0 al 9. |
+| `String` | `PUNCTUATION` | Contiene símbolos comunes utilizados en contraseñas. |
 
 ## AUTORES:
 - Porras Avendaño Sergio Ezequiel - Ing. en Sistemas Computacionales ***ITO*** [https://github.com/SergioPorrasA]
