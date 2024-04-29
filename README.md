@@ -45,9 +45,7 @@ La clase principal CodigoPostalPanel es una subclase de JPanel, esta clase defin
 - **Metodos:**
 | Nombre | Descripción |
 |------|-------------|
-| `initComponents` | Inicializamos los componentes de la interfaz gráfica (comboBox  y etiquetas).
-
-Establece los action listeners para los comboBox que se activan cuando el usuario selecciona un elemento en el comboBox correspondiente. |
+| `initComponents` | Inicializamos los componentes de la interfaz gráfica (comboBox  y etiquetas). Establece los action listeners para los comboBox que se activan cuando el usuario selecciona un elemento en el comboBox correspondiente. |
 | `` |  |
 | `` |  |
 | `` |  |
