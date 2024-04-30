@@ -93,8 +93,7 @@ En esta ventana da clic en el primer botón “Add from JAR…”
 
 En esta ventana emergente buscaras la carpeta con el proyecto en donde tú lo hayas guardado y en la carpeta “dist” seleccionaras el archivo que aparece y dar clic en el botón “Next >”, asi como se muestra enseguida:
 
-![5](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/168385961/501c12ae-f54d-4279-a560-f2c3d934bdc9)
-
+![5](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/123908757/bfa42029-7f20-463d-86ae-57523667d4c7)
 
 Después seleccionas el componente que tiene el nombre de nuestra clase principal:
 
