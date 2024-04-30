@@ -81,6 +81,7 @@ Si tu decides cambiar el nombre del archivo CSV es importante que lo cambies tam
 4. Compila y crea el componente .JAR (Es muy importante asegurarte de que el archivo .jar se cree para poder usarlo despues).
 
 ![9](https://github.com/SergioPorrasA/ITO_TAP_U2_COMPONENTE_CodigosPostales/assets/123908757/f514fd0b-1641-4c1c-8091-ff8ae958e636)
+
 6. Agrégalo a tu paleta de componentes de la siguiente manera:
 Sobre la paleta de elementos da clic derecho y selecciona la opción Palette Manager…
 
