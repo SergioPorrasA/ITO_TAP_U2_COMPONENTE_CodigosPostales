@@ -117,7 +117,7 @@ Como se observa, se nos agregara a nuestra paleta de componentes y lo tendremos 
 https://youtu.be/jYMwbiZ-WaU?si=cup1yoBsrhZ3mGQn
 
 
-
 ## AUTORES:
 - Porras Avendaño Sergio Ezequiel - Ing. en Sistemas Computacionales ***ITO*** [https://github.com/SergioPorrasA]
 - Ortiz Barroso Itzel - Ing. en Sistemas Computacionales ***ITO*** [https://github.com/ItzelOrtix]
+- Gracias por tomarte el tiempo de leer, cualquier duda, sugerencia u aclaración puedes contactarte con nosotros :)
